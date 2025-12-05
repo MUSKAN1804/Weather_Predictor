@@ -11,7 +11,7 @@ Weather Predictor is a modern mobile-style weather application that shows live l
 📱 Phone-style clean & modern UI  
 
 ## 🌐 Live Demo
-🔗 Add your Netlify link here  
+🔗 https://skypulseweatherpredictor.netlify.app/  
 
 ## 🛠 Tech Stack
 ⚛️ React • ⚡ Vite • 🎨 Tailwind CSS • 🌍 Open-Meteo API • 🌐 Netlify • 🧩 Git & GitHub
